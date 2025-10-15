@@ -1,6 +1,7 @@
 # Classificação de SMS: Spam vs Ham
 
 Este projeto implementa um modelo de **aprendizado de máquina supervisionado (ML)** para classificar mensagens SMS como **spam** (indesejadas) ou **ham** (legítimas).  
+
 O modelo foi treinado utilizando o clássico dataset [SMS Spam Collection (Kaggle)](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset?select=spam.csv).
 
 ---

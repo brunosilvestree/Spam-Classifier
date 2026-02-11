@@ -60,7 +60,7 @@ Spam-Classifier/
 
 ### 3. Vetorização
 - Conversão de texto em vetores numéricos com **TF-IDF**  
-- Separação em **dados de treino e teste (80/20)**
+- Separação em **dados de treino e teste (70/30)**
 
 ### 4. Treinamento
 - Modelo base: **Multinomial Naive Bayes**  

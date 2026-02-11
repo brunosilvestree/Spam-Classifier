@@ -42,7 +42,7 @@ Spam-Classifier/
 - **Pandas**
 - **Matplotlib**, **Seaborn**
 - **Scikit-learn**
-- **NLTK** (Natural Language Toolkit)
+- **NLTK** 
 
 ---
 

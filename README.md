@@ -39,7 +39,7 @@ Spam-Classifier/
 ## Tecnologias Utilizadas
 
 - **Python 3.10+**
-- **Pandas**, **NumPy**
+- **Pandas**
 - **Matplotlib**, **Seaborn**
 - **Scikit-learn**
 - **NLTK** (Natural Language Toolkit)
